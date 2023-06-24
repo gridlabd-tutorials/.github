@@ -2,6 +2,8 @@ The GridLAB-D tutorials repository is a collection of lessons designed to teach 
 
 # Lessons
 
+## Power system modeling
+
 **[Lesson 1](../../../../lesson-1)**: Create a GitHub project, download a reference model, solve powerflow, and plot a voltage profile.
 
 **[Lesson 2](../../../../lesson-2)**: Modify, create, and delete static loads.
