@@ -2,5 +2,17 @@ The GridLAB-D tutorials repository is a collection of lessons designed to teach 
 
 # Lessons
 
-1. **[Lesson 1](../../../../lesson-1)**: Create a GitHub project, download a reference model, solve powerflow, and plot a voltage profile.
-2. **[Lesson 2](../../../../lesson-2)**: Modify, create, and delete static loads.
+**[Lesson 1](../../../../lesson-1)**: Create a GitHub project, download a reference model, solve powerflow, and plot a voltage profile.
+
+**[Lesson 2](../../../../lesson-2)**: Modify, create, and delete static loads.
+
+**[Lesson 3](../../../../lesson-3)**: Create distributed generation resources such as rooftop solar, wind, and backup generators.
+
+**[Lesson 4](../../../../lesson-4)**: Create energy storage devices such as residential wall-mount batteries and community energy storage.
+
+**[Lesson 5](../../../../lesson-5)**: Running simulations over time.
+
+**[Lesson 6](../../../../lesson-6)**: Adding weather.
+
+**[Lesson 7](../../../../lesson-7)**: Adding quasi-static loads.
+
