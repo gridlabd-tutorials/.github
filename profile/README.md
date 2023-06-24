@@ -4,17 +4,17 @@ The GridLAB-D tutorials repository is a collection of lessons designed to teach 
 
 ## Power system modeling
 
-**[Lesson 1](../../../../lesson-1)**: Create a GitHub project, download a reference model, solve powerflow, and plot a voltage profile.
+**[Lesson 1](https://github.com/gridlabd-tutorials/lesson-1)**: Create a GitHub project, download a reference model, solve powerflow, and plot a voltage profile.
 
-**[Lesson 2](../../../../lesson-2)**: Modify, create, and delete static loads.
+**[Lesson 2](https://github.com/gridlabd-tutorials/lesson-2)**: Modify, create, and delete static loads.
 
-**[Lesson 3](../../../../lesson-3)**: Create distributed generation resources such as rooftop solar, wind, and backup generators.
+**[Lesson 3](https://github.com/gridlabd-tutorials/lesson-3)**: Create distributed generation resources such as rooftop solar, wind, and backup generators.
 
-**[Lesson 4](../../../../lesson-4)**: Create energy storage devices such as residential wall-mount batteries and community energy storage.
+**[Lesson 4](https://github.com/gridlabd-tutorials/lesson-4)**: Create energy storage devices such as residential wall-mount batteries and community energy storage.
 
-**[Lesson 5](../../../../lesson-5)**: Running simulations over time.
+**[Lesson 5](https://github.com/gridlabd-tutorials/lesson-5)**: Running simulations over time.
 
-**[Lesson 6](../../../../lesson-6)**: Adding weather.
+**[Lesson 6](https://github.com/gridlabd-tutorials/lesson-6)**: Adding weather.
 
-**[Lesson 7](../../../../lesson-7)**: Adding quasi-static loads.
+**[Lesson 7](https://github.com/gridlabd-tutorials/lesson-7)**: Adding quasi-static loads.
 
