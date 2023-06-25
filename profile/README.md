@@ -18,3 +18,6 @@ The GridLAB-D tutorials repository is a collection of lessons designed to teach 
 
 **[Lesson 7](https://github.com/gridlabd-tutorials/lesson-7)**: Adding quasi-static loads.
 
+**[Lesson 8](https://github.com/gridlabd-tutorials/lesson-8)**: Exporting data.
+
+**[Lesson 9](https://github.com/gridlabd-tutorials/lesson-9)**: Importing data.
