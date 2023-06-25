@@ -14,7 +14,7 @@ The GridLAB-D tutorials repository is a collection of lessons designed to teach 
 
 **[Lesson 5](https://github.com/gridlabd-tutorials/lesson-5)**: Running simulations over time.
 
-**[Lesson 6](https://github.com/gridlabd-tutorials/lesson-6)**: Adding weather.
+**[Lesson 6](https://github.com/gridlabd-tutorials/lesson-6)**: Managing weather.
 
 **[Lesson 7](https://github.com/gridlabd-tutorials/lesson-7)**: Adding quasi-static loads.
 
