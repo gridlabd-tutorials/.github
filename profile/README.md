@@ -1,8 +1,8 @@
 The GridLAB-D tutorials repository is a collection of lessons designed to teach the skills required to build and run models using the [Arras Energy](https://arras.energy) version of HiPAS GridLAB-D. The lessons are presented in a sequence designed to progressively introduce skills most GridLAB-D modelers require. You can skip steps if you are already familiar with the learning objectives. However, the exercises often require the results of previous lessons' exercises.
 
-# Lessons
+# Topics and Lessons
 
-## Power system modeling
+## Topic 1 - Power system modeling
 
 **[Lesson 1](https://github.com/gridlabd-tutorials/lesson-1)**: Create a GitHub project, download a reference model, solve powerflow, and plot a voltage profile.
 
@@ -21,3 +21,15 @@ The GridLAB-D tutorials repository is a collection of lessons designed to teach 
 **[Lesson 8](https://github.com/gridlabd-tutorials/lesson-8)**: Exporting data.
 
 **[Lesson 9](https://github.com/gridlabd-tutorials/lesson-9)**: Importing data.
+
+## Topic 2 - Python Integration
+
+**[Lesson 1](https://github.com/gridlabd-tutorials/lesson-2.1)**: Model creation code
+
+**[Lesson 2](https://github.com/gridlabd-tutorials/lesson-2.2)**: Global Event handlers
+
+**[Lesson 3](https://github.com/gridlabd-tutorials/lesson-2.3)**: Defining classes
+
+**[Lesson 4](https://github.com/gridlabd-tutorials/lesson-2.4)**: Object event handlers
+
+**[Lesson 5](https://github.com/gridlabd-tutorials/lesson-2.5)**: Property accessors
